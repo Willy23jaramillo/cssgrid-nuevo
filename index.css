@@ -4,6 +4,11 @@ body{
     margin: 0;
     background-color: black;
 }
+main{
+    display:grid;
+    gap:20px;
+}
+   
 h1{
     display: grid;
     justify-items: center;
