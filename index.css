@@ -11,7 +11,7 @@ h1{
     background-color: greenyellow;
     font-weight: unset;
 }
-section{
+.inicio{
     display: grid;
     grid-template-columns: 1fr 1fr;
     align-items: center;
